@@ -1,3 +1,5 @@
 # whatsapp
-# test change
-test 2
+
+py -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt 

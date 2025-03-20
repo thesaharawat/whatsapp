@@ -1,0 +1,10 @@
+Date: 19/3/2025
+Time: 19:8
+Group ID: GuaD0bfiOzd9O3WJfRYDZo
+Message: Hello, Test message.
+--------------------
+Date: 20/3/2025
+Time: 15:38
+Group ID: CoK4INaZyrA4J2OUhOrB75
+Message: Hello, Test message.
+--------------------
